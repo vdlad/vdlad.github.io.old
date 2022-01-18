@@ -1,1 +1,0 @@
-(self.webpackChunkvedang_website=self.webpackChunkvedang_website||[]).push([[453],{516:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"hello","name":"hello","count":1,"permalink":"/blog/tags/hello"}')}}]);
