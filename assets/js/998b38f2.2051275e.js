@@ -1,0 +1,1 @@
+(self.webpackChunkvedang_website=self.webpackChunkvedang_website||[]).push([[618],{6353:function(t){"use strict";t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"MDX Blog Post","permalink":"/blog/mdx-blog-post"},{"title":"Long Blog Post","permalink":"/blog/long-blog-post"},{"title":"First Blog Post","permalink":"/blog/first-blog-post"}]}')}}]);
