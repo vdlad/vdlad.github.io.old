@@ -1,1 +1,0 @@
-(self.webpackChunkvedang_website=self.webpackChunkvedang_website||[]).push([[618],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"I hope to make an exciting blog post once I secure something for the summer","permalink":"/blog/sorry"}]}')}}]);
